@@ -1,0 +1,1638 @@
+
+@media screen and (max-width:1450px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+   
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(123, 130, 107);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+@media screen and (max-width:1700px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+     margin-top: 400px;
+     
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(173, 170, 139);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+@media screen and (max-height:1100px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(151, 154, 126);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+
+@media screen and (max-height:2000px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(167, 172, 130);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+@media screen and (max-width:700px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(150, 155, 127);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+@media screen and (max-width:500px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(161, 162, 135);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+
+@media screen and (min-height:1000px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(173, 171, 146);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
+
+@media screen and (min-height:500px) {.header {
+    list-style: none;
+    background-color: rgb(118, 108, 91);
+    color: rgb(241, 236, 236);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 20px;
+    border-color: black;
+    border-radius: 10px;
+    word-spacing: 10px;
+    
+    
+
+    
+}
+.header li {
+    display: inline;
+
+}
+
+.itemss{
+    color: rgb(230, 228, 180);
+}
+.header-1 {
+    float: right;
+    padding-top: 10px     ;
+    border-color: rgb(215, 206, 103);
+    border-radius: 10px;
+
+    
+}
+.slogan {
+    font-size: 40px;
+    color: rgb(57, 58, 34);
+}
+
+.aside {
+
+   width: 130px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-size: 17px;
+    background-color: rgb(114, 119, 92);
+    color: rgb(28, 27, 27);
+  
+    position: fixed;
+    display: inline;
+    height:  635px;
+    float: left;
+   
+    
+    
+}
+.aside a li {
+  
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+   padding-right: 35px;
+   
+   
+}
+.ul-1 {
+    
+    position: absolute;
+    right:0%
+
+}
+
+
+
+.urun {
+    text-align: center;
+    
+    color: rgb(54, 52, 20);
+    margin-top: 20px;
+
+}
+
+
+.temizlik {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+.footer {
+    margin-top: 400px;
+    
+}
+.article {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+
+
+a[href] {
+    color: rgb(0, 0, 0);
+    
+}
+a[href]:hover {
+    color: rgb(169, 184, 106);
+}
+
+.carousel-item {
+    height: 500px;
+    width: 600px;
+    text-align: center;
+}
+
+#giris {
+    text-align: center;
+    width: 40px;
+    margin-left: 500px;
+    height: 200px;
+}
+#th-1 {
+    text-align: center;
+}
+
+
+.ilk-div {
+    background-color: rgb(221, 197, 167);
+}
+
+
+.h4-1{
+    background-color: rgb(82, 82, 82);
+    color: beige;
+}
+.p-hali {
+    background-color: rgb(182, 179, 144);
+    color: rgb(38, 38, 38);
+}
+
+.p-hali-1 {
+    background-color: blanchedalmond;
+    color: rgb(56, 56, 56);
+    margin-top: 100px;
+}
+
+
+#img-2 {
+    text-align: center;
+}
+
+#slider {
+    background-color: rgb(78, 79, 57);
+}
+
+
+#amac{
+    color: rgb(211, 202, 202);
+    margin-top: 100px;
+}
+
+#gecmis {
+    color:rgb(196, 196, 191);
+    margin-top: 100px;
+}
+
+#iletisim {
+    color: rgb(198, 198, 198);
+    margin-top: 100px;
+}
+  
+
+ .hakkimizda-renk{
+    background-color: rgb(175, 177, 147);
+    
+ }
+
+ .asperos-div {
+    background-color: rgb(102, 109, 89);
+    margin-top: 100px;
+    height: 300px;
+    
+
+ }
+ .asperos-div-1 {
+    background-color: rgb(245, 245, 166);
+ }
+
+ .figure{
+    margin-top: 100px;
+ }
+.col-sm-8 {
+    margin-left: 100px;
+}
+.button{
+    margin-top: 140px;
+    
+}
+.div-2{
+    text-align: center;
+}
+
+.asperos-fig {
+    margin-right: 100px;
+}
+}
